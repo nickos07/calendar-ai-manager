@@ -1,0 +1,15 @@
+# Claves y credenciales (¡NUNCA SUBIR ESTO!)
+.env
+credentials.json
+token.json
+
+# Archivos de registro y entornos virtuales
+log_manager.txt
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Archivos personales
+mi_horario.ics
